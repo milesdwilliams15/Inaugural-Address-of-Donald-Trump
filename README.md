@@ -1,7 +1,7 @@
 # Inaugural-Address-of-Donald-Trump
 Sentiment Analysis of Trump's Inaugural Address
 
-The day is January 20th, 2017. Donald Trump has been sworn in as the 45th President of the United States. Like every one of his predecessors, Trump gave an inaugural address during today's ceremony. Lot's of pundits will spend today closely analyzing, scrutinizing, praising, or whatever-ing Trump's speech. Few, however, will be applying text analysis techniques to examine the overall sentiment and emotion contained in Trump's address. I'm chosing to be a rebel by doing the latter...
+The day is January 20th, 2017. Donald Trump has been sworn in as the 45th President of the United States. Like every one of his predecessors, Trump gave an inaugural address during today's ceremony. Lots of pundits will spend today closely analyzing, scrutinizing, praising, or whatever-ing Trump's speech. Few, however, will be applying text analysis techniques to examine the overall sentiment and emotion contained in Trump's address. I'm chosing to be a rebel by doing the latter...
 
 ### Preppig the Data for Analysis
 First, after getting the transcript for the inaugural address ("as prepared for delivery") from [the White House's website](https://www.whitehouse.gov/inaugural-address), the text needs to be separated into a vector of sentences (there are 89 in total).
